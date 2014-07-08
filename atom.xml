@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yearnedme's Blog]]></title>
+  <link href="http://yearnedme.github.io/atom.xml" rel="self"/>
+  <link href="http://yearnedme.github.io/"/>
+  <updated>2014-07-09T01:56:52+08:00</updated>
+  <id>http://yearnedme.github.io/</id>
+  <author>
+    <name><![CDATA[Yang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://yearnedme.github.io/blog/2014/07/09/test/"/>
+    <updated>2014-07-09T01:55:13+08:00</updated>
+    <id>http://yearnedme.github.io/blog/2014/07/09/test</id>
+    <content type="html"><![CDATA[<p>just a test made by fenjuly</p>
+]]></content>
+  </entry>
+  
+</feed>
