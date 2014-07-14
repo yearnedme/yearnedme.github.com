@@ -8,50 +8,38 @@
     <priority>0.8</priority>
   </url>
   
-  <url>
-    <loc>http://yearnedme.com/blog/2014/07/09/germans-players-are-handsome/</loc>
-    <lastmod>2014-07-09T21:22:59+08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://yearnedme.com/blog/2014/07/09/test/</loc>
-    <lastmod>2014-07-09T01:55:13+08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
   
   <url>
     <loc>http://yearnedme.com/blog/</loc>
-    <lastmod>2014-07-14T21:32:19+08:00</lastmod>
+    <lastmod>2014-07-15T07:57:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/archives/</loc>
-    <lastmod>2014-07-14T21:32:19+08:00</lastmod>
+    <lastmod>2014-07-15T07:57:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/</loc>
-    <lastmod>2014-07-14T21:32:19+08:00</lastmod>
+    <lastmod>2014-07-15T07:57:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/blog/archives/</loc>
-    <lastmod>2014-07-14T21:32:19+08:00</lastmod>
+    <lastmod>2014-07-15T07:57:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/about/</loc>
-    <lastmod>2014-07-14T21:32:19+08:00</lastmod>
+    <lastmod>2014-07-15T07:57:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
