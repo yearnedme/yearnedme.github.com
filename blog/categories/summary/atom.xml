@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[YYJ's journey]]></title>
-  <link href="http://yearnedme.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: summary | YYJ's journey]]></title>
+  <link href="http://yearnedme.com/blog/categories/summary/atom.xml" rel="self"/>
   <link href="http://yearnedme.com/"/>
   <updated>2014-07-14T21:01:49+08:00</updated>
   <id>http://yearnedme.com/</id>
@@ -42,15 +42,15 @@
 <p><strong>而关于我自身的一切</strong></p>
 
 <ul>
-<li><p>我也一直在想自己是否把&#8221;中庸&#8221;的思想贯彻的太好？
+<li><p>我也一直在想自己是否把"中庸"的思想贯彻的太好？
 当然这里的中庸只是我自己最肤浅的理解。</p></li>
 <li><p><strong>从外在来看</strong>
 长相身材中等，属于一名合格的路人甲。家庭条件不好也不坏，吃的饱睡的暖也足够了。然后就是大部分人十八岁以前唯一被衡量的标准——学习成绩。像一只鱼，一直舒适安逸的游荡了学海的中游。偶尔运气好，就有到了上游的尾巴边凑凑。</p></li>
 <li><p><strong>从内在来看</strong>
-从小到大从未有过可以在前面加上&#8221;非常&#8221;这个量词的情绪。更不用说对什么事物有特别的情感的。我的口头禅大抵都是&#8221;还行&#8221;&ldquo;一般般&#8221;。所以现在人生最大的遗憾是【我连个最喜欢或者最讨厌的事物都没有】。也是由它引发了我很多问题o(︶︿︶)o 。</p></li>
-<li><p>&ldquo;没主见&#8221;是我想绝杀的头号敌人。因为对什么都没有特别的感觉 所以觉得什么都还好。 每件事物既然存在了就有它自己存在的方式，也不是我喜欢或者不喜欢能简单衡量的。反正都是路，走哪条都可以。然后把选择权什么的全交给周围的人让他们来解决。总是想着，既然我对这个没有特别的情感。周围的人可以用他们这么多年来累积的经验来帮我选择反正也不会差到哪里去，这样挺好的。可是啊，我一溜烟功夫就长大了。离开了从小到大陪伴在周围的人，没人帮我做决定了。it&rsquo;s up to you &hellip;&hellip;&hellip;&hellip;..汗颜- -川于是我现在开始了漫长的三思而行纠结综合症之路。</p></li>
-<li><p>&ldquo;没特长&#8221;。说白了就是没有专一过一样东西。认为这个不错就去玩玩，玩几下就不再碰了。三天打鱼两天晒网真是病，得治。每次填表格的时候要填特长爱好，真不知何从下手，很囧的诶。我从小到大最常做的事差不多就是发呆做梦了，不知这算不算爱好哈哈。</p></li>
-<li><p>&ldquo;不会争取 不会争抢&#8221;。也就是没有上进心，不会争取什么又谈什么发狠劲上进。但该做的我还是会做，温温和和的去做，所以什么也都顶多只能算个合格。又觉得一切都顺其自然就好，该是我的就是我的，不是我的就不是我的。有它也好 没有它也不会就不好。总之一切都会过去 it&rsquo;s no big deal。</p></li>
+从小到大从未有过可以在前面加上"非常"这个量词的情绪。更不用说对什么事物有特别的情感的。我的口头禅大抵都是"还行"&ldquo;一般般"。所以现在人生最大的遗憾是【我连个最喜欢或者最讨厌的事物都没有】。也是由它引发了我很多问题o(︶︿︶)o 。</p></li>
+<li><p>&ldquo;没主见"是我想绝杀的头号敌人。因为对什么都没有特别的感觉 所以觉得什么都还好。 每件事物既然存在了就有它自己存在的方式，也不是我喜欢或者不喜欢能简单衡量的。反正都是路，走哪条都可以。然后把选择权什么的全交给周围的人让他们来解决。总是想着，既然我对这个没有特别的情感。周围的人可以用他们这么多年来累积的经验来帮我选择反正也不会差到哪里去，这样挺好的。可是啊，我一溜烟功夫就长大了。离开了从小到大陪伴在周围的人，没人帮我做决定了。it&rsquo;s up to you &hellip;&hellip;&hellip;&hellip;..汗颜- -川于是我现在开始了漫长的三思而行纠结综合症之路。</p></li>
+<li><p>&ldquo;没特长"。说白了就是没有专一过一样东西。认为这个不错就去玩玩，玩几下就不再碰了。三天打鱼两天晒网真是病，得治。每次填表格的时候要填特长爱好，真不知何从下手，很囧的诶。我从小到大最常做的事差不多就是发呆做梦了，不知这算不算爱好哈哈。</p></li>
+<li><p>&ldquo;不会争取 不会争抢"。也就是没有上进心，不会争取什么又谈什么发狠劲上进。但该做的我还是会做，温温和和的去做，所以什么也都顶多只能算个合格。又觉得一切都顺其自然就好，该是我的就是我的，不是我的就不是我的。有它也好 没有它也不会就不好。总之一切都会过去 it&rsquo;s no big deal。</p></li>
 </ul>
 
 
@@ -64,37 +64,6 @@
 <img src="images/QQ%E5%9B%BE%E7%89%8720140714200758.jpg" alt="Alt text" /></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[德国队的球员好帅]]></title>
-    <link href="http://yearnedme.com/blog/2014/07/09/germans-players-are-handsome/"/>
-    <updated>2014-07-09T21:22:59+08:00</updated>
-    <id>http://yearnedme.com/blog/2014/07/09/germans-players-are-handsome</id>
-    <content type="html"><![CDATA[<p><strong>德国队有哪些人好帅？</strong></p>
-
-<ul>
-<li>克洛泽</li>
-<li>穆勒</li>
-<li>施魏因施泰格</li>
-</ul>
-
-
-<p><strong>为什么这么帅</strong></p>
-
-<p>因为，我也不知道啊！</p>
-
-<p><img src="images/49d7f241tw1dfqh83mme9j.jpg" alt="Alt text" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://yearnedme.com/blog/2014/07/09/test/"/>
-    <updated>2014-07-09T01:55:13+08:00</updated>
-    <id>http://yearnedme.com/blog/2014/07/09/test</id>
-    <content type="html"><![CDATA[<p>just a test made by fenjuly</p>
 ]]></content>
   </entry>
   
