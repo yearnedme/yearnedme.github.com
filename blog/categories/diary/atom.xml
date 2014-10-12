@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diary | YYJ's journey]]></title>
   <link href="http://yearnedme.com/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://yearnedme.com/"/>
-  <updated>2014-10-12T10:06:36+08:00</updated>
+  <updated>2014-10-12T22:30:39+08:00</updated>
   <id>http://yearnedme.com/</id>
   <author>
     <name><![CDATA[YYJ]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oct.12]]></title>
+    <link href="http://yearnedme.com/blog/2014/10/12/one/"/>
+    <updated>2014-10-12T22:17:32+08:00</updated>
+    <id>http://yearnedme.com/blog/2014/10/12/one</id>
+    <content type="html"><![CDATA[<p>Think like a man</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Oct.11]]></title>
@@ -58,19 +67,6 @@
     <updated>2014-10-08T21:07:27+08:00</updated>
     <id>http://yearnedme.com/blog/2014/10/08/one</id>
     <content type="html"><![CDATA[<p>the first time I went to bar&hellip;I have no special sense&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Oct.7]]></title>
-    <link href="http://yearnedme.com/blog/2014/10/07/one/"/>
-    <updated>2014-10-07T20:21:19+08:00</updated>
-    <id>http://yearnedme.com/blog/2014/10/07/one</id>
-    <content type="html"><![CDATA[<p>my hairstyle get changed&hellip;I don&rsquo;t pleased with it</p>
-
-<hr />
-
-<p>什么都是简单最好</p>
 ]]></content>
   </entry>
   

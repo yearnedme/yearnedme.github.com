@@ -4,7 +4,7 @@
   <title><![CDATA[YYJ's journey]]></title>
   <link href="http://yearnedme.com/atom.xml" rel="self"/>
   <link href="http://yearnedme.com/"/>
-  <updated>2014-10-12T10:06:36+08:00</updated>
+  <updated>2014-10-12T22:30:39+08:00</updated>
   <id>http://yearnedme.com/</id>
   <author>
     <name><![CDATA[YYJ]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oct.12]]></title>
+    <link href="http://yearnedme.com/blog/2014/10/12/one/"/>
+    <updated>2014-10-12T22:17:32+08:00</updated>
+    <id>http://yearnedme.com/blog/2014/10/12/one</id>
+    <content type="html"><![CDATA[<p>Think like a man</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Oct.11]]></title>
@@ -216,15 +225,6 @@ but at the same time,I realized I do something wrong.such as I put a lot of pres
     <updated>2014-09-23T22:02:16+08:00</updated>
     <id>http://yearnedme.com/blog/2014/09/23/one-day</id>
     <content type="html"><![CDATA[<p>I am still fighting for the accounting eaxmination,although I&rsquo;m so sleepy that I can hardly keep my eyes open&hellip;&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sept.22]]></title>
-    <link href="http://yearnedme.com/blog/2014/09/22/one-day/"/>
-    <updated>2014-09-22T22:25:16+08:00</updated>
-    <id>http://yearnedme.com/blog/2014/09/22/one-day</id>
-    <content type="html"><![CDATA[<p>Only have 3 days that I can liberate from the accounting examination&hellip;but I don&rsquo;t know how long will I can free myself from influenza.I have a sore throat and a stuffy nose, and what&rsquo;s more,I feel thirsty frequently no matter I have drunk how much water.Maybe it cause by the weather of autumn.I have to prepare some water for my sleep time,because I know the bad taste without water when I woke up with thirsty&hellip;good night.</p>
 ]]></content>
   </entry>
   
