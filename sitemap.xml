@@ -3,6 +3,18 @@
   
   
   <url>
+    <loc>http://yearnedme.com/blog/2014/10/24/s/</loc>
+    <lastmod>2014-10-24T22:19:27+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://yearnedme.com/blog/2014/10/23/s/</loc>
+    <lastmod>2014-10-23T22:17:26+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://yearnedme.com/blog/2014/10/22/s/</loc>
     <lastmod>2014-10-22T22:26:19+08:00</lastmod>
     <priority>0.8</priority>
@@ -209,35 +221,35 @@
   
   <url>
     <loc>http://yearnedme.com/blog/</loc>
-    <lastmod>2014-10-22T22:29:47+08:00</lastmod>
+    <lastmod>2014-10-24T22:45:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/archives/</loc>
-    <lastmod>2014-10-22T22:29:47+08:00</lastmod>
+    <lastmod>2014-10-24T22:45:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/</loc>
-    <lastmod>2014-10-22T22:29:47+08:00</lastmod>
+    <lastmod>2014-10-24T22:45:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/blog/archives/</loc>
-    <lastmod>2014-10-22T22:29:47+08:00</lastmod>
+    <lastmod>2014-10-24T22:45:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yearnedme.com/about/</loc>
-    <lastmod>2014-10-22T22:29:47+08:00</lastmod>
+    <lastmod>2014-10-24T22:45:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
